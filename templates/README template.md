@@ -23,9 +23,10 @@ A brief description of what this project does and who it's for
 
 ## 🫂 Support
 
-For support, join our Discord server at https://discord.gg/u9McaXUq2t
+For support, join our [Discord server](https://discord.gg/u9McaXUq2t)
+or create an issue!
 
-## ⁉️ FAQ
+## 📚 FAQ
 
 #### Question 1
 
@@ -36,7 +37,7 @@ Answer 1
 Answer 2
 
 
-## ▶️ Installation
+## 🖥️ Installation
 
 Install my-project with npm
 
