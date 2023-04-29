@@ -7,7 +7,7 @@
 
     - title: Our Rules
       color: 0x000000
-      description: This Discord community has been created to provide a community space for people to chant about HyacinthBots and to facilitate the development of our bots. In accordance with the goals set, we have established the following set of rules
+      description: This Discord community has been created to provide a community space for people to talk and to facilitate the development of Project Shards. In accordance with the goals set, we have established the following set of rules
 
 - type: rules
   rules:
@@ -23,7 +23,7 @@
 
 - type: embed
   embeds:
-    - description: "We will respond to rule violations at our own discretion. If you have an issue with another user in this server, please report it to a moderator privately. If you see rule breaking behavior, please mention our moderator role in the channel in which the violation occurred.\n\nThese rules were last updated on December 8th, 2022 and are based on the rules for Discord communities of CaffeineMC and The Iris Project."
+    - description: "We will respond to rule violations at our own discretion. If you have an issue with another user in this server, please report it to a moderator privately. If you see rule breaking behavior, please mention our moderator role in the channel in which the violation occurred.\n\nThese rules were last updated on December April 29 2023. And were based on the Linux Mint Discord community rules."
       color: 0x00ffc8
 
 - type: links
