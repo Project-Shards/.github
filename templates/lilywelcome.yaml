@@ -1,0 +1,36 @@
+- type: embed
+  embeds:
+    - title: Welcome to Project Shards
+      url: https://shards.eryn.cloud
+      color: 0xdfdfdf
+      description: We're a group of people dedicated to working on a Linux distribution called Project Shards. Whether you're here for support, to lend a hand contributing, or just because you're curious, welcome! Below you can find more information about our projects, as well as rules for existing in this server.
+
+    - title: Our Rules
+      color: 0x000000
+      description: This Discord community has been created to provide a community space for people to chant about HyacinthBots and to facilitate the development of our bots. In accordance with the goals set, we have established the following set of rules
+
+- type: rules
+  rules:
+    Hate and Disrespectful Speech: Including usernames, voicechat, nicknames, and DMs is forbidden.
+    Spamming and Flooding: Except for happy birthday spam, spamming and flooding is forbidden.
+    NSFW Content: NSFW content is forbidden.
+    Support Questions: Support questions go into the support channels. Other topics belong in their respective channels.
+    Personal Info: Spreading personal info is forbidden. When the other parties and a staff member agree, it may be allowed.
+    Respectful Discussions: Keep discussions respectful.
+    Advertising: Advertising is forbidden unless you have explicit permission from a staff member.
+    Religious, Suggestive, and Political Talk: Strictly forbidden in all channels.
+    Staff Discretion: When the rules do not cover a specific situation, then the staff are free to do as they see fit.
+
+- type: embed
+  embeds:
+    - description: "We will respond to rule violations at our own discretion. If you have an issue with another user in this server, please report it to a moderator privately. If you see rule breaking behavior, please mention our moderator role in the channel in which the violation occurred.\n\nThese rules were last updated on December 8th, 2022 and are based on the rules for Discord communities of CaffeineMC and The Iris Project."
+      color: 0x00ffc8
+
+- type: links
+  title: Useful links
+  color: 0x001eff
+  template: "**•** [{TEXT}]({URL})"
+  links:
+    Website (Coming soon:tm:): ""
+    GitHub: https://github.com/Project-Shards
+    Discord: https://discord.gg/u9McaXUq2t
