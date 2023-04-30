@@ -31,6 +31,8 @@
   color: 0x001eff
   template: "**•** [{TEXT}]({URL})"
   links:
-    Website (Coming soon:tm:): ""
+    Website (Coming soon:tm:): https://shards.eryn.cloud
     GitHub: https://github.com/Project-Shards
     Discord: https://discord.gg/u9McaXUq2t
+    Discord: https://twitter.com/ProjectShards
+    Mastodon: https://fosstodon.org/@shards
