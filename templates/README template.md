@@ -3,6 +3,17 @@
 
 A brief description of what this project does and who it's for
 
+### You don't change these
+
+![GitHub followers](https://img.shields.io/github/followers/project-shards?color=dark-green) 
+![GitHub Org's stars](https://img.shields.io/github/stars/project-shards?label=shards%27%20stars&color=dark-green)
+![Discord](https://img.shields.io/discord/1101598768819863602?color=dark-green&label=chat%20%26%20support)
+
+### Modify the URL
+![GitHub Repo stars](https://img.shields.io/github/stars/project-shards/.github?color=dark-green)
+![GitHub forks](https://img.shields.io/github/forks/project-shards/.github?color=dark-green)
+![GitHub issues](https://img.shields.io/github/issues/project-shards/.github?color=dark-green)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/project-shards/.github?color=dark-green)
 
 ## 📘 Documentation
 
@@ -100,5 +111,7 @@ function App() {
 
 ## 📜 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+### Modify the URL
+
+![GitHub](https://img.shields.io/github/license/project-shards/.github)
 
