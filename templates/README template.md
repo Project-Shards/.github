@@ -37,16 +37,7 @@ A brief description of what this project does and who it's for
 For support, join our [Discord server](https://discord.gg/u9McaXUq2t)
 or create an issue!
 
-## 📚 FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
+### Choose from the following 3, any that apply
 
 ## 🖥️ Installation
 
