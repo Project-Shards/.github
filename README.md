@@ -2,7 +2,7 @@
 
 Welcome to **Project Shards!**
 
-Project Shards is a immutable distribution focused on providing the best of **performance**, **accessibility**, **safety**, **stability, and **usability**. We base ourselves off [Arch Linux](https://archlinux.org) and use mainly [GNOME](https://gnome.org) technologies (e.g., GTK4/Libadwaita, GNOME Desktop)
+Project Shards is a immutable distribution focused on providing the best of **performance**, **accessibility**, **safety**, **stability**, and **usability**. We base ourselves off [Arch Linux](https://archlinux.org) and use mainly [GNOME](https://gnome.org) technologies (e.g., GTK4/Libadwaita, GNOME Desktop)
 
 Check out our socials below!
 
